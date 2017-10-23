@@ -1,6 +1,5 @@
 # Deep Learning Data Imputation
-
-##Stacked Denoising Deep Auto Encoders (SDAE) to Impute HCUP Data
+## Stacked Denoising Deep Auto Encoders (SDAE) to Impute HCUP Data
 
 Course : Machine Learning II
 
